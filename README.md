@@ -1,5 +1,9 @@
 # Primer Parcial Práctico - Robótica
 
+Integrantes:
+- José Manuel Uría Fernandez
+- 
+
 Este repositorio contiene la implementación de:
 
 * ✔ Control cinemático inverso del **Robot A**
