@@ -2,13 +2,12 @@
 
 Integrantes:
 - José Manuel Uría Fernandez
-- 
-
+  
 Este repositorio contiene la implementación de:
 
-* ● Control cinemático inverso del **Robot A**
-* ● Control cinemático inverso del **Robot Bio-Inspirado**
-* ● Sistema de sensores con agregación y filtrado de datos en ROS 2
+● Control cinemático inverso del **Robot A**
+● Control cinemático inverso del **Robot Bio-Inspirado**
+● Sistema de sensores con agregación y filtrado de datos en ROS 2
 
 ---
 
